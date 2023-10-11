@@ -1,0 +1,5 @@
+/home/vlada/calculator_app/App/bin/Release/net7.0/publish/DotNet.Docker
+/home/vlada/calculator_app/App/bin/Release/net7.0/publish/DotNet.Docker.dll
+/home/vlada/calculator_app/App/bin/Release/net7.0/publish/DotNet.Docker.deps.json
+/home/vlada/calculator_app/App/bin/Release/net7.0/publish/DotNet.Docker.runtimeconfig.json
+/home/vlada/calculator_app/App/bin/Release/net7.0/publish/DotNet.Docker.pdb
